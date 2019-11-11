@@ -18,9 +18,7 @@
 
 **Proficiency**: +2
 
-<table>
-  <tr><th>Ability Scores</th><th>Saving Throws</th></tr>
-  <tr><td>
+## Ability Scores
 
 | **Score** | **Modifier** |
 | --------- | ------------ |
@@ -31,8 +29,7 @@
 | **WIS** 15 | +2 |
 | **CHA** 12 | +1 |
 
-</td>
-<td>
+## Saving Throws
 
 | **Proficient** | **Bonus** | **Saving Throw** |
 | ------- | ------- | ------- |
@@ -42,9 +39,6 @@
 |   | +2 | Intelligence |
 |   | +2 | Wisdom |
 |   | +1 | Charisma |
-
-</td></tr>
-</table>
 
 ## Skills
 
