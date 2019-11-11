@@ -1,5 +1,7 @@
 # Manu Mori
 
+![Image of Manu Mori](https://raw.githubusercontent.com/flamableconcrete/DnD-5E-Character-Sheet/master/img/Manu_Mori.jpg)
+
 | **Class & Level** | **Background** | **Player Name** |
 | ----------------- | -------------- | --------------- |
 | Monk (Open Hand) 4th | Investigator | Jared |
